@@ -25,7 +25,7 @@ const promoItems: PromoItem[] = [
     id: 1,
     title: "Super Delicious",
     subtitle: "MENU",
-    image: "public/promo1.jpg",
+    image: "public/promo1.png",
     badge: "50% OFF",
     themeColor: "bg-red-700",
   },
@@ -33,7 +33,7 @@ const promoItems: PromoItem[] = [
     id: 2,
     title: "Super Delicious",
     subtitle: "FOOD MENU",
-    image: "public/promo2.jpg",
+    image: "public/promo2.png",
     badge: "WEEKEND ONLY",
     themeColor: "bg-gray-900",
   },
@@ -41,7 +41,7 @@ const promoItems: PromoItem[] = [
     id: 3,
     title: "Delicious",
     subtitle: "FRIED CHICKEN",
-    image: "public/promo3.jpg",
+    image: "public/promo3.png",
     badge: "HOT DEAL",
     themeColor: "bg-orange-500",
   },
@@ -52,7 +52,7 @@ const menuItems: MenuItem[] = [
   {
     id: 1,
     name: "Fried Chicken",
-    image: "public/menu1.jpg",
+    image: "public/menu1.png",
     price: "$5.00",
     description:
       "Fried chicken is a popular dish made from chicken pieces that are seasoned, coated in a breading or batter, and then deep-fried or pan-fried to achieve a crispy, golden-brown exterior while keeping the meat tender and juicy on the inside. The chicken is typically marinated or seasoned with spices such as salt, pepper, garlic, and paprika to enhance flavor. It is then coated with a mixture of flour, cornmeal, and sometimes additional spices or herbs.",
@@ -60,7 +60,7 @@ const menuItems: MenuItem[] = [
   {
     id: 2,
     name: "Chicken Package A",
-    image: "public/menu2.jpg",
+    image: "public/menu2.png",
     price: "$12.00",
     description:
       "Our signature Chicken Package A brings you the perfect balance of carbohydrates and protein. Served with steaming hot rice, fresh coleslaw, and a large soda to wash it all down.",
@@ -68,7 +68,7 @@ const menuItems: MenuItem[] = [
   {
     id: 3,
     name: "Chicken Package B",
-    image: "public/menu3.jpg",
+    image: "public/menu3.png",
     price: "$15.00",
     description:
       "The family favorite. This package includes 5 pieces of our crispy fried chicken, 2 large sides of your choice, and 3 biscuits baked fresh daily.",
@@ -76,7 +76,7 @@ const menuItems: MenuItem[] = [
   {
     id: 4,
     name: "Chicken Package C",
-    image: "public/menu4.jpg",
+    image: "public/menu4.png",
     price: "$18.00",
     description:
       "The ultimate feast for the hungry ones. Includes spicy wings, original recipe drumsticks, and a variety of dipping sauces that will blow your mind.",
@@ -84,7 +84,7 @@ const menuItems: MenuItem[] = [
   {
     id: 5,
     name: "Chicken Popcorn",
-    image: "public/menu5.jpg",
+    image: "public/menu5.png",
     price: "$4.50",
     description:
       "Bite-sized pieces of tender breast meat, seasoned and fried to perfection. Perfect for snacking on the go.",
@@ -92,7 +92,7 @@ const menuItems: MenuItem[] = [
   {
     id: 6,
     name: "Chicken Strips",
-    image: "public/menu6.jpg",
+    image: "public/menu6.png",
     price: "$6.00",
     description:
       "Boneless tenders made from high-quality breast meat. Great for dipping in our signature BBQ or Honey Mustard sauce.",
@@ -100,7 +100,7 @@ const menuItems: MenuItem[] = [
   {
     id: 7,
     name: "Chicken Wings",
-    image: "public/menu7.jpg",
+    image: "public/menu7.png",
     price: "$8.00",
     description:
       "Crispy on the outside, juicy on the inside. Choose from Spicy, BBQ, or Garlic Parmesan glaze.",
@@ -108,7 +108,7 @@ const menuItems: MenuItem[] = [
   {
     id: 8,
     name: "Chicken Sauce",
-    image: "public/menu8.jpg",
+    image: "public/menu8.png",
     price: "$2.00",
     description:
       "Our secret recipe house sauce. Creamy, tangy, and a little bit spicy.",

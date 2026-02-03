@@ -17,7 +17,7 @@ const blogPosts: BlogPost[] = [
     title: "Wing Frenzy: Indulging in the Savory Delights of Chicken Wings",
     date: "28 January 2026",
     category: "Blogs",
-    image: "public/blog1.jpg", // Sesuai urutan gambar 1
+    image: "public/blog1.png", // Sesuai urutan gambar 1
     excerpt:
       "Fried chicken is a beloved dish that has found its way into hearts and homes around the world. Whether it's served at a family dinner, a quick snack, or as the centerpiece of a celebratory meal...",
     content:
@@ -28,7 +28,7 @@ const blogPosts: BlogPost[] = [
     title: "Sesame Sensations: Unveiling the Delicious World of Chicken Sesame",
     date: "29 January 2026",
     category: "Blogs",
-    image: "public/blog2.jpg", // Sesuai urutan gambar 2
+    image: "public/blog2.png", // Sesuai urutan gambar 2
     excerpt:
       "Fried chicken is a beloved dish that has found its way into hearts and homes around the world. Whether it's served at a family dinner, a quick snack, or as the centerpiece of a celebratory meal...",
     content:
@@ -40,7 +40,7 @@ const blogPosts: BlogPost[] = [
       "Popcorn Pleasures: Exploring the Crispy Delights of Chicken Popcorn",
     date: "30 January 2026",
     category: "Blogs",
-    image: "public/blog3.jpg", // Sesuai urutan gambar 3
+    image: "public/blog3.png", // Sesuai urutan gambar 3
     excerpt:
       "Fried chicken is a beloved dish that has found its way into hearts and homes around the world. Whether it's served at a family dinner, a quick snack, or as the centerpiece of a celebratory meal...",
     content:
@@ -52,7 +52,7 @@ const blogPosts: BlogPost[] = [
       "Crispy Delights: Unveiling the Irresistible World of Tasty Fried Chicken",
     date: " 2 February 2026",
     category: "Blogs",
-    image: "public/blog4.jpg", // Sesuai urutan gambar 4
+    image: "public/blog4.png", // Sesuai urutan gambar 4
     excerpt:
       "Fried chicken is a beloved dish that has found its way into hearts and homes around the world. Whether it's served at a family dinner, a quick snack, or as the centerpiece of a celebratory meal...",
     content:

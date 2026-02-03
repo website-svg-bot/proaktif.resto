@@ -19,7 +19,7 @@ const outletLocations: OutletLocation[] = [
       "Jl. Indonesia Raya, Sudirman, Jakarta Selatan, DKI Jakarta, Indonesia, 10150",
     email: "cs@proaktifresto.com",
     phone: "(+62)  851 9191 9109",
-    image: "public/outlet-jakarta.jpg", // Sesuaikan path asset Anda
+    image: "public/outlet-jakarta.png", // Sesuaikan path asset Anda
   },
   {
     id: 2,
@@ -29,7 +29,7 @@ const outletLocations: OutletLocation[] = [
       "Jl. Boulevard Ahmad Yani No.Blok M Kel.Marga Mulya, Kec.Bekasi Utara, Kota Bks, Jawa Barat 17142",
     email: "cs@proaktifresto.com",
     phone: "(+62) 851 9191 9109",
-    image: "public/outlet-bintaro.jpg",
+    image: "public/outlet-bintaro.png",
   },
   {
     id: 3,
@@ -39,7 +39,7 @@ const outletLocations: OutletLocation[] = [
       "Jl. Indonesia Raya, Sudirman, Jakarta Selatan, DKI Jakarta, Indonesia, 10150",
     email: "cs@proaktifresto.com",
     phone: "(+62) 851 9191 9109",
-    image: "public/outlet-depok.jpg",
+    image: "public/outlet-depok.png",
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ const outletLocations: OutletLocation[] = [
       "Jl. Indonesia Raya, Sudirman, Jakarta Selatan, DKI Jakarta, Indonesia, 10150",
     email: "cs@proaktifresto.com",
     phone: "(+62) 851 9191 9109",
-    image: "public/outlet-bsd.jpg",
+    image: "public/outlet-bsd.png",
   },
 ];
 

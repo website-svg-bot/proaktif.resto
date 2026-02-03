@@ -43,14 +43,14 @@ export default function About() {
           <div className="w-full lg:w-1/2 relative h-[400px] md:h-[500px]">
             <div className="absolute top-0 left-0 w-4/5 h-4/5 rounded-lg overflow-hidden shadow-xl z-10">
               <img
-                src="public/about-img-1.jpg"
+                src="public/about-img-1.png"
                 alt="Fried Chicken with fries"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="absolute bottom-0 right-0 w-3/5 h-3/5 rounded-lg overflow-hidden shadow-2xl z-20 border-8 border-white">
               <img
-                src="public/about-img-2.jpg"
+                src="public/about-img-2.png"
                 alt="Chicken in a bowl"
                 className="w-full h-full object-cover"
               />
